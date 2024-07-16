@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning JavaScript with these cute extravaganzas:
 [Git-Hannah/js-projects](https://github.com/Git-Hannah/js-projects)
+- 🔭 I’m currently working on the lovely SheCodes training:
+[SheCodes](https://github.com/Git-Hannah/SheCodes-Code)
 
 <!--
 **Git-Hannah/Git-Hannah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
