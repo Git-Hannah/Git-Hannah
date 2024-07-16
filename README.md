@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning JavaScript with these cute extravaganzas:
 [Git-Hannah/js-projects](https://github.com/Git-Hannah/js-projects)
+
 -🩷 I’m currently working on the lovely SheCodes training:
 [SheCodes](https://github.com/Git-Hannah/SheCodes-Code)
 
