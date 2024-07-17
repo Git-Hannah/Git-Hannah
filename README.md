@@ -10,9 +10,9 @@
 
 ### 💬 Ask me about my final project app for pantomime workouts:
 
-    [MiME](https://mime-training-app.hannahsenft.com/)
+[MiME](https://mime-training-app.hannahsenft.com/)
     
-    [Code for MiME app](https://github.com/Git-Hannah/nf-capstone)
+[Code for MiME app](https://github.com/Git-Hannah/nf-capstone)
 
 <!--
 **Git-Hannah/Git-Hannah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
