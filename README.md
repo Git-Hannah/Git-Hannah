@@ -6,7 +6,7 @@
 - 🩷 I’m currently working on the lovely SheCodes training:
 [Git-Hannah/SheCodes-Code](https://github.com/Git-Hannah/SheCodes-Code)
 
-- 💬 Ask me about my final project app for MiME workouts:
+- 💬 Ask me about my final project app for pantomime workouts:
 [MiME](https://mime-training-app.hannahsenft.com/)
 
 <!--
