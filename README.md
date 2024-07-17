@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallihallo 🦄
 
 ### 🌱 I’m currently learning JavaScript with these cute extravaganzas:
 
